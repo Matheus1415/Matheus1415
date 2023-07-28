@@ -1,4 +1,4 @@
-## Oiii eu me chamo Matheus, sou criador de conteúdo de programação e tecnologia!
+## Oiii eu me chamo Matheus, sou desenvolvedor full-stack e amante da tecnologia.
  <div>
    <a href="https://github.com/Matheus1415">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus1415&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -6,7 +6,7 @@
 
 </div>
 
-#### Tecnologias com que estou familiarizado a trabalhar como front e back.
+#### Essas são as tecnologias com que estou familiarizado a trabalhar como desenvolvedor full-stack.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
@@ -22,4 +22,4 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 </div>
 
-
+#### Algumas dessas tecnologias ainda estão em fase de estudo.
