@@ -1,13 +1,13 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá! Eu sou [Seu Nome], um desenvolvedor web full stack apaixonado por criar soluções incríveis para problemas complexos. Com apenas 17 anos, comecei minha jornada na área de desenvolvimento web e desde então venho explorando uma variedade de tecnologias e frameworks para aprimorar minhas habilidades. Meu objetivo é dominar tanto o desenvolvimento front-end quanto o back-end, buscando sempre simplicidade, eficácia e disciplina em meus projetos.
+Olá! Eu sou Matheus pereira da asilva, um desenvolvedor web full stack apaixonado por criar soluções incríveis para problemas complexos. Com apenas 15 anos, comecei minha jornada na área de desenvolvimento web e desde então venho explorando uma variedade de tecnologias e frameworks para aprimorar minhas habilidades. Meu objetivo é dominar tanto o desenvolvimento front-end quanto o back-end, buscando sempre simplicidade, eficácia e disciplina em meus projetos.
 
 ## Sobre Mim
 
 - 🌱 Atualmente estou descobrindo o mundo do Laravel e suas diversas possibilidades.
 - 💻 Tenho especialização em React, TypeScript, MySQL, JavaScript, jQuery, HTML, CSS, e PHP.
 - 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
-- 🎯 Focado em me tornar um desenvolvedor full stack altamente competente.
+- 🎯 Focado em me tornar um desenvolvedor full stack altamente competente e de relevância no mercado.
 
 ## Projetos Relevantes
 
