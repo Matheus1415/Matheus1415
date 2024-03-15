@@ -29,8 +29,8 @@ Olá! Eu sou Matheus pereira da asilva, um desenvolvedor web full stack apaixona
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuNome&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNome&layout=compact&count_private=true&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus1415&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus1415&layout=compact&count_private=true&show_icons=true&theme=github_dark)
 
 ## Entre em Contato
 
