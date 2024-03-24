@@ -14,6 +14,7 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 - [Restaurante](https://github.com/Matheus1415/restaurante)
 - [Site Espacial](https://github.com/Matheus1415/siteEspacial)
 - [Comodoro](https://github.com/Matheus1415/Comodoro)
+- [Gerenciador de Estudo](https://github.com/Matheus1415/gerenciador-de-estudo)
 
 ## Tecnologias e Ferramentas
 
