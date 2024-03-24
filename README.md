@@ -18,6 +18,7 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 
 ## Tecnologias e Ferramentas
 
+<div style={display:flex}>
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
 ![CSS3](https://img.shields.io/badge/CSS3-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B)
@@ -28,6 +29,7 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white&labelColor=4F5B93)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
+</div>
 
 ## Estatísticas do GitHub
 
