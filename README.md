@@ -27,6 +27,7 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 ![MySQL](https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F29221)
 ![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white&labelColor=4F5B93)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
 
 ## Estatísticas do GitHub
 
