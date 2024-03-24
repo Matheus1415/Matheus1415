@@ -18,18 +18,19 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 
 ## Tecnologias e Ferramentas
 
-<div style={display:flex}>
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD)
-![React](https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222)
-![TypeScript](https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6)
-![MySQL](https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F29221)
-![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white&labelColor=4F5B93)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699)
+<div style="display: flex;">
+    <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-5188FE?style=for-the-badge&logo=css3&logoColor=white&labelColor=5188FE" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-FFDC0B?style=for-the-badge&logo=javascript&logoColor=000&labelColor=FFDC0B" alt="JavaScript">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=0769AD" alt="jQuery">
+    <img src="https://img.shields.io/badge/React-222?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=222" alt="React">
+    <img src="https://img.shields.io/badge/TypeScript-3276E6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3276E6" alt="TypeScript">
+    <img src="https://img.shields.io/badge/MySQL-F29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=F29221" alt="MySQL">
+    <img src="https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white&labelColor=4F5B93" alt="PHP">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20" alt="Laravel">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="Sass">
 </div>
+
 
 ## Estatísticas do GitHub
 
