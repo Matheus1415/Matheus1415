@@ -5,7 +5,7 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 ## Sobre Mim
 
 - 🌱 Atualmente estou descobrindo o mundo do Laravel e suas diversas possibilidades.
-- 💻 Tenho especialização em React, TypeScript, MySQL, JavaScript, jQuery, HTML, CSS, e PHP.
+- 💻 Tenho especialização em React, TypeScript, MySQL, JavaScript, jQuery, HTML, CSS, PHP e Laravel.
 - 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
 - 🎯 Focado em me tornar um desenvolvedor full stack altamente competente e de relevância no mercado.
 
@@ -15,6 +15,7 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 - [Site Espacial](https://github.com/Matheus1415/siteEspacial)
 - [Comodoro](https://github.com/Matheus1415/Comodoro)
 - [Gerenciador de Estudo](https://github.com/Matheus1415/gerenciador-de-estudo)
+- [Sistema de gestão de usuario e planos de intenet](https://github.com/Matheus1415/SmartTelecon)
 
 ## Tecnologias e Ferramentas
 
