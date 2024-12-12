@@ -30,6 +30,8 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
     <img src="https://skillicons.dev/icons?i=php" alt="PHP">
     <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel">
     <img src="https://skillicons.dev/icons?i=sass" alt="Sass">
+    <img src="https://skillicons.dev/icons?i=github" alt="Github">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git">
 </div>
 
 ## Estatísticas do GitHub
