@@ -4,7 +4,7 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou descobrindo o mundo do Laravel e suas diversas possibilidades.
+- 🌱 Atualmente estou descobrindo o mundo do Node e suas diversas possibilidades.
 - 💻 Tenho especialização em React, TypeScript, MySQL, JavaScript, jQuery, HTML, CSS, PHP e Laravel.
 - 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
 - 🎯 Focado em me tornar um desenvolvedor full stack altamente competente e de relevância no mercado.
