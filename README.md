@@ -34,6 +34,13 @@ Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonad
     <img src="https://skillicons.dev/icons?i=git" alt="Git">
 </div>
 
+## Tecnologias que estou aprendendo
+
+<div style="display: flex;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
+</div>
+
+
 ## Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus1415&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
