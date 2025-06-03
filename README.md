@@ -8,6 +8,7 @@ Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full sta
 
 - 🎓 Em constante aprendizado, atualmente me aprofundando no ecossistema **Laravel**.
 - 💻 Experiência com: **React**, **TypeScript**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, **HTML/CSS**, **jQuery**.
+- 🧠 Hard skills: **Técnico em Informática** e formação em **Gestão de Projetos (Google)**.
 - 🚀 Apaixonado por construir aplicações web completas e funcionais.
 - 🎯 Objetivo: me tornar um desenvolvedor full stack de alto nível, capaz de entregar soluções modernas e escaláveis.
 
