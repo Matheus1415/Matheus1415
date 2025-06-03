@@ -17,11 +17,14 @@ Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full sta
 
 > Alguns projetos que demonstram minhas habilidades técnicas e foco em usabilidade:
 
-- 🔗 [Restaurante](https://github.com/Matheus1415/restaurante) — Sistema de cardápio para restaurante.
-- 🌌 [Site Espacial](https://github.com/Matheus1415/siteEspacial) — Website com temática espacial, foco em front-end.
-- ⏱️ [Comodoro](https://github.com/Matheus1415/Comodoro) — Temporizador estilo Pomodoro.
-- 📚 [Gerenciador de Estudos](https://github.com/Matheus1415/gerenciador-de-estudo) — Organização de tarefas e estudos.
-- 📡 [Sistema de Gestão de Usuários e Planos de Internet](https://github.com/Matheus1415/SmartTelecon) — Projeto completo com painel administrativo.
+- 🔗 [**Restaurante**](https://github.com/Matheus1415/restaurante) — Sistema de cardápio digital para restaurantes, com interface intuitiva.
+- 🌌 [**Site Espacial**](https://github.com/Matheus1415/siteEspacial) — Website com temática espacial, focado em design e interatividade.
+- ⏱️ [**Comodoro**](https://github.com/Matheus1415/Comodoro) — Temporizador Pomodoro para foco e produtividade.
+- 📚 [**Gerenciador de Estudos**](https://github.com/Matheus1415/gerenciador-de-estudo) — Aplicação para organizar e acompanhar tarefas de estudo.
+- 📡 [**SmartTelecon**](https://github.com/Matheus1415/SmartTelecon) — Sistema completo para gerenciamento de usuários e planos de internet.
+- 🗂️ [**FilesSystem**](https://github.com/Matheus1415/FilesSystem) — Aplicação em **Laravel** para gerenciamento de arquivos e pastas, explorando o sistema de arquivos da framework com operações como criação, leitura, upload e organização.
+- 🚀 [**TechInnovationHub**](https://github.com/Matheus1415/TechInnovationHub) — API RESTful desenvolvida em **Laravel** para gestão de usuários, startups e propostas de investimento. Inclui autenticação via **Bearer Token** e diversos endpoints bem estruturados.
+
 
 ---
 
