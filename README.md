@@ -1,45 +1,54 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+# 👋 Bem-vindo ao meu GitHub!
 
-Olá! Eu sou Matheus pereira da silva, um desenvolvedor web full stack apaixonado por criar soluções incríveis para problemas complexos. Com apenas 16 anos, comecei minha jornada na área de desenvolvimento web e desde então venho explorando uma variedade de tecnologias e frameworks para aprimorar minhas habilidades. Meu objetivo é dominar tanto o desenvolvimento front-end quanto o back-end, buscando sempre simplicidade, eficácia e disciplina em meus projetos.
+Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full stack** apaixonado por tecnologia e resolução de problemas. Com apenas **16 anos**, iniciei minha jornada no desenvolvimento web e venho evoluindo continuamente, explorando tanto o **front-end** quanto o **back-end**, sempre com foco em **simplicidade, eficácia e disciplina**.
 
-## Sobre Mim
+---
 
-- 🌱 Atualmente estou me aperfeisoando no mundo do Laravel e suas diversas possibilidades.
-- 💻 Tenho especialização em React, TypeScript, MySQL, JavaScript, jQuery, HTML, CSS, PHP e Laravel.
-- 🚀 Estou constantemente buscando aprender mais e expandir meu conhecimento na área de desenvolvimento web.
-- 🎯 Focado em me tornar um desenvolvedor full stack altamente competente e de relevância no mercado.
+## 📌 Sobre Mim
 
-## Projetos Relevantes
+- 🎓 Em constante aprendizado, atualmente me aprofundando no ecossistema **Laravel**.
+- 💻 Experiência com: **React**, **TypeScript**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, **HTML/CSS**, **jQuery**.
+- 🚀 Apaixonado por construir aplicações web completas e funcionais.
+- 🎯 Objetivo: me tornar um desenvolvedor full stack de alto nível, capaz de entregar soluções modernas e escaláveis.
 
-- [Restaurante](https://github.com/Matheus1415/restaurante)
-- [Site Espacial](https://github.com/Matheus1415/siteEspacial)
-- [Comodoro](https://github.com/Matheus1415/Comodoro)
-- [Gerenciador de Estudo](https://github.com/Matheus1415/gerenciador-de-estudo)
-- [Sistema de gestão de usuario e planos de intenet](https://github.com/Matheus1415/SmartTelecon)
+---
 
-## Tecnologias e Ferramentas
+## 💼 Projetos em Destaque
 
-<div style="display: flex;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
-    <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery">
-    <img src="https://skillicons.dev/icons?i=react" alt="React">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel">
-    <img src="https://skillicons.dev/icons?i=sass" alt="Sass">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git">
+> Alguns projetos que demonstram minhas habilidades técnicas e foco em usabilidade:
+
+- 🔗 [Restaurante](https://github.com/Matheus1415/restaurante) — Sistema de cardápio para restaurante.
+- 🌌 [Site Espacial](https://github.com/Matheus1415/siteEspacial) — Website com temática espacial, foco em front-end.
+- ⏱️ [Comodoro](https://github.com/Matheus1415/Comodoro) — Temporizador estilo Pomodoro.
+- 📚 [Gerenciador de Estudos](https://github.com/Matheus1415/gerenciador-de-estudo) — Organização de tarefas e estudos.
+- 📡 [Sistema de Gestão de Usuários e Planos de Internet](https://github.com/Matheus1415/SmartTelecon) — Projeto completo com painel administrativo.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,php,laravel,mysql,sass,git,github" alt="Skills" />
 </div>
 
+---
 
-## Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matheus1415&count_private=true&show_icons=true&theme=github_dark&hide=contribs,issues)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus1415&layout=compact&count_private=true&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus1415&layout=compact&count_private=true&theme=github_dark)
 
-## Entre em Contato
+---
 
-- 📫 Você pode me enviar um e-mail
+## 📬 Entre em Contato
+
+- ✉️ **Email**: mps.web.tech@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-pereira-da-silva-298020286/)
+- 🌐 [Portfólio](https://mps-dev-aretado.netlify.app/)
+
+---
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+
+---
+
