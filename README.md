@@ -23,8 +23,8 @@ Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full sta
 - ⏱️ [**Comodoro**](https://github.com/Matheus1415/Comodoro) — Temporizador Pomodoro para foco e produtividade.
 - 📚 [**Gerenciador de Estudos**](https://github.com/Matheus1415/gerenciador-de-estudo) — Aplicação para organizar e acompanhar tarefas de estudo.
 - 📡 [**SmartTelecon**](https://github.com/Matheus1415/SmartTelecon) — Sistema completo para gerenciamento de usuários e planos de internet.
-- 🗂️ [**FilesSystem**](https://github.com/Matheus1415/FilesSystem) — Aplicação em **Laravel** para gerenciamento de arquivos e pastas, explorando o sistema de arquivos da framework com operações como criação, leitura, upload e organização.
-- 🚀 [**TechInnovationHub**](https://github.com/Matheus1415/TechInnovationHub) — API RESTful desenvolvida em **Laravel** para gestão de usuários, startups e propostas de investimento. Inclui autenticação via **Bearer Token** e diversos endpoints bem estruturados.
+- 🗂️ [**FilesSystem**](https://github.com/Matheus1415/FilesSystem) — Aplicação em **Laravel** para gerenciamento de arquivos e pastas, explorando o sistema de arquivos da framework laravel.
+- 🚀 [**TechInnovationHub**](https://github.com/Matheus1415/TechInnovationHub) — API RESTful desenvolvida em **Laravel** para gestão de usuários, startups e propostas de investimento.
 
 
 ---
