@@ -32,7 +32,7 @@ Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full sta
 ## 🛠️ Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,php,laravel,mysql,sass,git,github" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,php,laravel,mysql,sass,git,github,nodejs" alt="Skills" />
 </div>
 
 ---
@@ -40,9 +40,7 @@ Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full sta
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-<img width="398" src="https://github-readme-stats.vercel.app/api?username=Matheus1415&count_private=true&show_icons=true&theme=nord&rank_icon=github&locale=pt-br&border_radius=8"/> 
-<img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Matheus1415&theme=nord&locale=pt_BR&hide_border=false" alt="GitHub Streak Stats"><br/>
-<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus1415&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Matheus1415&theme=nord&locale=pt_BR&hide_border=false" alt="GitHub Streak Stats"><br/>
 </div>
 
 ---
