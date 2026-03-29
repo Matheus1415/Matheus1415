@@ -1,59 +1,51 @@
 # 👋 Bem-vindo ao meu GitHub!
 
-Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full stack** apaixonado por tecnologia e resolução de problemas. Com apenas **16 anos**, iniciei minha jornada no desenvolvimento web e venho evoluindo continuamente, explorando tanto o **front-end** quanto o **back-end**, sempre com foco em **simplicidade, eficácia e disciplina**.
+Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full stack** apaixonado por tecnologia e resolução de problemas. Iniciei minha jornada no desenvolvimento ainda jovem e venho evoluindo continuamente, explorando tanto o **front-end** quanto o **back-end**, sempre com foco em **simplicidade, eficiência e consistência**.
 
 ---
 
 ## 📌 Sobre Mim
 
-- 🎓 Em constante aprendizado, atualmente me aprofundando no ecossistema **Laravel**.
-- 💻 Experiência com: **React**, **TypeScript**, **JavaScript**, **PHP**, **Laravel**, **MySQL**, **HTML/CSS**, **jQuery**.
-- 🧠 Hard skills: **Técnico em Informática** e formação em **Gestão de Projetos (Google)**.
-- 🚀 Apaixonado por construir aplicações web completas e funcionais.
-- 🎯 Objetivo: me tornar um desenvolvedor full stack de alto nível, capaz de entregar soluções modernas e escaláveis.
+- 🎓 Em constante evolução no ecossistema **Laravel** e atualmente estudando **Spring Boot**.
+- 💻 Experiência com: **React**, **TypeScript**, **JavaScript**, **PHP**, **Laravel**, **Node.js**, **Java**, **MySQL**, **PostgreSQL**, **HTML**, **CSS**, **jQuery**, **SASS**.
+- 🧠 Formação técnica em **Informática** e estudos em **Gestão de Projetos (Google)**.
+- 🚀 Focado em construir aplicações web modernas, funcionais e escaláveis.
+- 🎯 Objetivo: me tornar um desenvolvedor **full stack de alto nível**, com domínio de boas práticas e arquitetura de software.
 
 ---
 
-## 💼 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-> Alguns projetos que demonstram minhas habilidades técnicas e foco em usabilidade:
+> Projetos que demonstram minhas habilidades técnicas e foco em qualidade:
 
-- 🔗 [**Restaurante**](https://github.com/Matheus1415/restaurante) — Sistema de cardápio digital para restaurantes, com interface intuitiva.
-- 🌌 [**Site Espacial**](https://github.com/Matheus1415/siteEspacial) — Website com temática espacial, focado em design e interatividade.
-- ⏱️ [**Comodoro**](https://github.com/Matheus1415/Comodoro) — Temporizador Pomodoro para foco e produtividade.
-- 📚 [**Gerenciador de Estudos**](https://github.com/Matheus1415/gerenciador-de-estudo) — Aplicação para organizar e acompanhar tarefas de estudo.
-- 📡 [**SmartTelecon**](https://github.com/Matheus1415/SmartTelecon) — Sistema completo para gerenciamento de usuários e planos de internet.
-- 🗂️ [**FilesSystem**](https://github.com/Matheus1415/FilesSystem) — Aplicação em **Laravel** para gerenciamento de arquivos e pastas, explorando o sistema de arquivos da framework laravel.
-- 🚀 [**TechInnovationHub**](https://github.com/Matheus1415/TechInnovationHub) — API RESTful desenvolvida em **Laravel** para gestão de usuários, startups e propostas de investimento.
-
+| Projeto | Descrição |
+|--------|----------|
+| [BetaTalent Backend Challenge](https://github.com/Matheus1415/betalent-backend-challenge) | Desafio backend com foco em boas práticas, arquitetura e organização de código. |
+| [Webhooks Inspector](https://github.com/Matheus1415/Webhooks-Inspector) | Ferramenta para inspeção e teste de webhooks em tempo real. |
+| [TechInnovationHub](https://github.com/Matheus1415/TechInnovationHub) | API RESTful para gestão de startups, usuários e investimentos. |
+| [SmartTelecon](https://github.com/Matheus1415/SmartTelecon) | Sistema completo para gerenciamento de usuários e planos de internet. |
+| [FilesSystem](https://github.com/Matheus1415/FilesSystem) | Gerenciamento de arquivos e pastas utilizando Laravel. |
+| [Restaurante](https://github.com/Matheus1415/restaurante) | Sistema de cardápio digital com foco em usabilidade. |
+| [Gerenciador de Estudos](https://github.com/Matheus1415/gerenciador-de-estudo) | Aplicação para organização de tarefas e acompanhamento de estudos. |
+| [Comodoro](https://github.com/Matheus1415/Comodoro) | Temporizador Pomodoro para produtividade. |
+| [Site Espacial](https://github.com/Matheus1415/siteEspacial) | Website temático com foco em design e interatividade. |
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,php,laravel,mysql,sass,git,github,nodejs" alt="Skills" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
 <div align="center">
-    <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Matheus1415&theme=nord&locale=pt_BR&hide_border=false" alt="GitHub Streak Stats"><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,php,laravel,nodejs,java,spring,mysql,postgres,sass,git,github" />
 </div>
 
 ---
 
-## 📬 Entre em Contato
+## 📬 Contato
 
-- ✉️ **Email**: mps.web.tech@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-pereira-da-silva-298020286/)
-- 🌐 [Portfólio](https://mps-dev-aretado.netlify.app/)
-
----
-
-> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
+- ✉️ **Email**: mps.web.tech@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheus-pereira-da-silva-298020286/)  
+- 🌐 [Portfólio](https://mps-dev-aretado.netlify.app/)  
 
 ---
 
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” — Robert Collier
