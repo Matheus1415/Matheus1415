@@ -40,7 +40,7 @@ Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full sta
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,php,laravel,nodejs,java,spring,mysql,postgres,sass,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,tailwind,php,laravel,nodejs,java,spring,mysql,postgres,sass,git,github,docker,postman" />
 </div>
 
 ---
