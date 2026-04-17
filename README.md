@@ -1,4 +1,9 @@
-# 👋 Bem-vindo ao meu GitHub!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Matheus%20Pereira%20da%20Silva&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Laravel+%7C+PHP+%7C+MySQL;React+%7C+TypeScript+%7C+jQuery;Node.js+%7C+APIs+REST;Sempre+buscando+evoluir+e+novos+desafios!" alt="Typing SVG" />
+</a>
 
 Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full stack** apaixonado por tecnologia e resolução de problemas. Iniciei minha jornada no desenvolvimento ainda jovem e venho evoluindo continuamente, explorando tanto o **front-end** quanto o **back-end**, sempre com foco em **simplicidade, eficiência e consistência**.
 
