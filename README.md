@@ -40,10 +40,18 @@ Olá! Me chamo **Matheus Pereira da Silva**, sou um **desenvolvedor web full sta
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,tailwind,php,laravel,nodejs,java,spring,mysql,postgres,sass,git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,tailwind,php,laravel,nodejs,mysql,postgres,sass,git,github,docker,postman" />
 </div>
 
 ---
+
+## 🏆 Certificações
+
+<div align="center">
+  <a href="https://www.credly.com/badges/87e9073e-a6e8-4f1a-bc69-a07f1d66f11e/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/c3ce934c-ea35-4c7d-9319-578209747fb7/image.png" height="120"/>
+  </a>
+</div>
 
 ## 📬 Contato
 
